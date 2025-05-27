@@ -46,6 +46,66 @@
       "name": "Cupid Shovel V",
       "pattern": "Your Lovestruck V is making you",
       "duration": 40
+    },
+    "Imperial Axe": {
+      "name": "Imperial Axe",
+      "pattern": "Your Kamikaze",
+      "duration": 180
+    },
+    "Spooky Helmet I": {
+      "name": "Spooky Helmet I",
+      "pattern": "Your Illusion I is deceiving your foes",
+      "duration": 180
+    },
+    "Spooky Helmet II": {
+      "name": "Spooky Helmet II",
+      "pattern": "Your Illusion II is deceiving your foes",
+      "duration": 180
+    },
+    "Spooky Helmet III": {
+      "name": "Spooky Helmet III",
+      "pattern": "Your Illusion III is deceiving your foes",
+      "duration": 180
+    },
+    "Spooky Helmet IV": {
+      "name": "Spooky Helmet IV",
+      "pattern": "Your Illusion IV is deceiving your foes",
+      "duration": 180
+    },
+    "Spooky Helmet V": {
+      "name": "Spooky Helmet V",
+      "pattern": "Your Illusion V is deceiving your foes",
+      "duration": 180
+    },
+    "Jolly Chestplate": {
+      "name": "Jolly Chestplate",
+      "pattern": "Your Present Power Up",
+      "duration": 60
+    },
+    "Sacred Leggings I": {
+      "name": "Sacred Leggings I",
+      "pattern": "You used Ascent I to glide",
+      "duration": 150
+    },
+    "Sacred Leggings II": {
+      "name": "Sacred Leggings II",
+      "pattern": "You used Ascent II to glide",
+      "duration": 120
+    },
+    "Sacred Leggings III": {
+      "name": "Sacred Leggings III",
+      "pattern": "You used Ascent III to glide",
+      "duration": 90
+    },
+    "Sacred Leggings IV": {
+      "name": "Sacred Leggings IV",
+      "pattern": "You used Ascent IV to glide",
+      "duration": 60
+    },
+    "Sacred Leggings V": {
+      "name": "Sacred Leggings V",
+      "pattern": "You used Ascent V to glide",
+      "duration": 30
     }
   }
 }
