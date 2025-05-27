@@ -106,6 +106,116 @@
       "name": "Sacred Leggings V",
       "pattern": "You used Ascent V to glide",
       "duration": 30
+    },
+    "Halloween Axe I": {
+      "name": "Halloween Axe I",
+      "pattern": "You have summoned your Toxic Forcefield I",
+      "duration": 240
+    },
+    "Halloween Axe II": {
+      "name": "Halloween Axe II",
+      "pattern": "You have summoned your Toxic Forcefield II",
+      "duration": 220
+    },
+    "Halloween Axe III": {
+      "name": "Halloween Axe III",
+      "pattern": "You have summoned your Toxic Forcefield III",
+      "duration": 200
+    },
+    "Halloween Axe IV": {
+      "name": "Halloween Axe IV",
+      "pattern": "You have summoned your Toxic Forcefield IV",
+      "duration": 180
+    },
+    "Halloween Axe V": {
+      "name": "Halloween Axe V",
+      "pattern": "You have summoned your Toxic Forcefield V",
+      "duration": 160
+    },
+    "Magitech Crossbow": {
+      "name": "Magitech Crossbow",
+      "pattern": "You placed down a Power Pylon",
+      "duration": 180
+    },
+    "Spartan Sword": {
+      "name": "Spartan Sword",
+      "pattern": "You are preparing your Grand Strike",
+      "duration": 80
+    },
+    "Stinger Sword": {
+      "name": "Stinger Sword",
+      "pattern": "You prepare to Sting Like a Bee",
+      "duration": 60
+    },
+    "Imperial Sword": {
+      "name": "Imperial Sword",
+      "pattern": "You have dashed forward using your Honorable Blade",
+      "duration": 50
+    },
+    "Sacred Crossbow I": {
+      "name": "Sacred Crossbow I",
+      "pattern": "Holy Water I healed you",
+      "duration": 90
+    },
+    "Sacred Crossbow II": {
+      "name": "Sacred Crossbow II",
+      "pattern": "Holy Water II healed you",
+      "duration": 90
+    },
+    "Sacred Crossbow III": {
+      "name": "Sacred Crossbow III",
+      "pattern": "Holy Water III healed you",
+      "duration": 90
+    },
+    "Sacred Crossbow IV": {
+      "name": "Sacred Crossbow IV",
+      "pattern": "Holy Water IV healed you",
+      "duration": 90
+    },
+    "Sacred Crossbow V": {
+      "name": "Sacred Crossbow V",
+      "pattern": "Holy Water V healed you",
+      "duration": 90
+    },
+    "Voltage Leggings I": {
+      "name": "Voltage Leggings I",
+      "pattern": "Your Elecrosphere I is repelling",
+      "duration": 180
+    },
+    "Voltage Leggings II": {
+      "name": "Voltage Leggings II",
+      "pattern": "Your Elecrosphere II is repelling",
+      "duration": 180
+    },
+    "Voltage Leggings III": {
+      "name": "Voltage Leggings III",
+      "pattern": "Your Elecrosphere III is repelling",
+      "duration": 180
+    },
+    "Voltage Leggings IV": {
+      "name": "Voltage Leggings IV",
+      "pattern": "Your Elecrosphere IV is repelling",
+      "duration": 180
+    },
+    "Voltage Leggings V": {
+      "name": "Voltage Leggings V",
+      "pattern": "Your Elecrosphere V is repelling",
+      "duration": 180
+    },
+    "Grinch Sword": {
+      "name": "Grinch Sword",
+      "pattern": "You are exhaling freezing cold winds with your Freeze Breath",
+      "duration": 120
+    },
+    "Attractor Boots": {
+      "name": "Attractor Boots",
+      "pattern": "in with your Attractor",
+      "duration": 60
+    },
+    "Repulsor Boots": {
+      "name": "Repulsor Boots",
+      "pattern": "away with your Repulsor",
+      "duration": 90
     }
   }
 }
