@@ -2,47 +2,47 @@
   "version": "1.0.0",
   "lastUpdated": "2024-03-20T12:00:00Z",
   "defaultTimers": {
-    "vkit_axe": {
+    "VKit Axe": {
       "name": "VKit Axe",
       "pattern": "Your Bloodthirst I has empowered you",
       "duration": 300
     },
-    "vkit_helmet": {
+    "VKit Helmet": {
       "name": "VKit Helmet",
       "pattern": "Your Decoy I is deceiving your foes",
       "duration": 300
     },
-    "vkit_boots": {
+    "VKit Boots": {
       "name": "VKit Boots",
       "pattern": "to yourself with your Lock Down I",
       "duration": 180
     },
-    "vkit_leggings": {
+    "VKit Leggings": {
       "name": "VKit Leggings",
       "pattern": "You have activated your Exertion I",
       "duration": 120
     },
-    "cupid_shovel_1": {
+    "Cupid Shovel I": {
       "name": "Cupid Shovel I",
       "pattern": "Your Lovestruck I is making you",
       "duration": 120
     },
-    "cupid_shovel_2": {
+    "Cupid Shovel II": {
       "name": "Cupid Shovel II",
       "pattern": "Your Lovestruck II is making you",
       "duration": 100
     },
-    "cupid_shovel_3": {
+    "Cupid Shovel III": {
       "name": "Cupid Shovel III",
       "pattern": "Your Lovestruck III is making you",
       "duration": 80
     },
-    "cupid_shovel_4": {
+    "Cupid Shovel IV": {
       "name": "Cupid Shovel IV",
       "pattern": "Your Lovestruck IV is making you",
       "duration": 60
     },
-    "cupid_shovel_5": {
+    "Cupid Shovel V": {
       "name": "Cupid Shovel V",
       "pattern": "Your Lovestruck V is making you",
       "duration": 40
