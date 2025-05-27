@@ -1,1 +1,16 @@
-test
+{
+  "defaultTimers": {
+    "timer1": {
+      "name": "Timer 1",
+      "pattern": "pattern1",
+      "duration": 300,
+      "description": "Description of timer 1"
+    },
+    "timer2": {
+      "name": "Timer 2",
+      "pattern": "pattern2",
+      "duration": 600,
+      "description": "Description of timer 2"
+    }
+  }
+}
